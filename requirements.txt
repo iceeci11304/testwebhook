@@ -1,0 +1,33 @@
+# Core Web Framework
+flask==3.0.0
+
+# WSGI HTTP Server for Heroku
+gunicorn==21.2.0
+
+# Environment Variable Management
+python-dotenv==1.0.0
+
+# HTTP Requests Library
+requests==2.31.0
+
+# Security and Cryptography
+cryptography==42.0.2
+
+# Optional: Logging and Debugging
+blinker==1.7.0
+
+# Optional: JSON Handling
+simplejson==3.19.2
+
+# Optional: Performance and Async Support
+werkzeug==3.0.1
+
+# Optional: Advanced HTTP Handling
+httpx==0.25.2
+
+# Heroku Specific
+psycopg2-binary==2.9.9
+
+# Deployment and Production Utilities
+setuptools==69.2.0
+wheel==0.43.0
